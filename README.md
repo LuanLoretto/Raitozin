@@ -1,6 +1,6 @@
 ### Oi, eu sou o Luan
 
-- 📚 Estudando Front-end
+- 📚 Estudando Front-end.
 - 🖥️ Trabalhando com T.I.
   
 
