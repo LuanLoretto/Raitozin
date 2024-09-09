@@ -1,7 +1,7 @@
-### Oi, eu sou o Raito XD
+### Oi, eu sou o Luan
 
 - 📚 Estudando front-end
-- 😴 Pronomes: ele/dele
+
 
 <div>
   <a href="https://github.com/raitozin">
