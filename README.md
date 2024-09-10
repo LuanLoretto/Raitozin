@@ -25,6 +25,6 @@
 
 <div> 
  	<a href="twitch.tv/Loretto_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <br>
-  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F633600241334906393%2F&psig=AOvVaw0k2o_7664xh9yKIdbo7c1A&ust=1726073403143000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCx0I_quIgDFQAAAAAdAAAAABAJwidth=614&height=345">
+  <img align="center" src="https://media.giphy.com/media/avk0o4vn94JOefxRiT/giphy.gif?cid=ecf05e47f2a2dqtv0et4cuf7ntxas0blonogclhcbjntigq1&ep=v1_gifs_search&rid=giphy.gif&ct=gwidth=614&height=345">
 </div>
 
